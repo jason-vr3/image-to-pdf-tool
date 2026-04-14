@@ -12,5 +12,6 @@
 ## 🚀 快速运行
 * **绿色软件**：windows下载exe即可使用
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/be0fb035-b734-4f67-a5f1-492bb78db0ec" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/81c78d6e-398d-4c2c-8eb4-9a30996b74bf" />
+
 
